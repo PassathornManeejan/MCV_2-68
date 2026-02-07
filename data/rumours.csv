@@ -1,0 +1,22 @@
+rumour_id,title,source,created_date,credibility_score,status,verified_status
+12345678,Major Flood in Bangkok,Facebook,2026-01-01,40,panic,UNVERIFIED
+23456789,Government Announces Curfew,Twitter,2026-01-02,55,normal,UNVERIFIED
+34567891,Power Outage Nationwide,Line,2026-01-03,30,panic,UNVERIFIED
+45678912,Bank System Failure,Facebook,2026-01-04,70,normal,UNVERIFIED
+56789123,New Virus Detected,YouTube,2026-01-05,45,panic,UNVERIFIED
+67891234,Gas Shortage Warning,TikTok,2026-01-06,60,normal,UNVERIFIED
+78912345,Earthquake Prediction Alert,Twitter,2026-01-07,35,panic,UNVERIFIED
+89123456,ATM Services Suspended,Line,2026-01-08,80,normal,UNVERIFIED
+91234567,Airport Closed Temporarily,Facebook,2026-01-09,65,normal,UNVERIFIED
+13579246,Food Supply Crisis,YouTube,2026-01-10,25,panic,UNVERIFIED
+24681357,Mobile Network Down,Twitter,2026-01-11,50,normal,UNVERIFIED
+35792468,Fake Emergency Broadcast,Facebook,2026-01-12,20,panic,UNVERIFIED
+46813579,Water Contamination Rumor,Line,2026-01-13,55,normal,UNVERIFIED
+57924681,Stock Market Crash Alert,TikTok,2026-01-14,45,panic,UNVERIFIED
+68135792,Hospital System Failure,Twitter,2026-01-15,60,normal,UNVERIFIED
+79246813,Train Services Suspended,Facebook,2026-01-16,40,panic,UNVERIFIED
+81357924,Internet Shutdown Nationwide,YouTube,2026-01-17,30,panic,UNVERIFIED
+92468135,Fake Royal Announcement,Line,2026-01-18,75,normal,UNVERIFIED
+14725836,Nuclear Leak Warning,Twitter,2026-01-19,20,panic,UNVERIFIED
+25836914,Emergency Evacuation Notice,Facebook,2026-01-20,65,normal,UNVERIFIED
+
